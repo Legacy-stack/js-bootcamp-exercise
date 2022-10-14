@@ -1,12 +1,37 @@
 body {
-    background-color: aqua;
+    background-color: beige;
+    text-align: center;
+    position: relative;
+    height: 100vh;
     margin: 0%;
 }
 
 div {
     background-color: beige;
+    margin-top: 0%;
 }
 
+h1 {
+    font-family: 'Caveat', cursive;
+}
+
+.top {
+    height: 100px;
+}
 .pro {
     text-decoration: underline;
+}
+
+.mountain {
+    position: relative;
+    top: 16%;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.top-cloud{
+    position: relative;
+    left: 180px;
 }
