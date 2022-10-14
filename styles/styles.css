@@ -1,20 +1,29 @@
 body {
-    background-color: beige;
     text-align: center;
-    position: relative;
-    height: 100vh;
     margin: 0%;
+    background-color: rgb(214, 231, 233);
 }
 
 div {
-    background-color: beige;
     margin-top: 0%;
 }
 
-h1 {
+.title-top {
+    font-size: 5.2rem;
+    margin-top: 50px auto 0 auto;
     font-family: 'Caveat', cursive;
+    color: #66BFBF;
 }
 
+.title-bottom {
+    font-family: fantasy;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+
+.skills-title {
+    color: #11999E;
+}
 .top {
     height: 100px;
 }
