@@ -1,9 +1,43 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 #title {
     background-color: green;
 }
 
 .container-fluid {
     padding: 3% 15%;
+}
+
+/* carrousel testimonial section*/
+
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: rgb(233, 130, 93);
+    color: white;
+}
+
+#press {
+    text-align: center;
+    background-color: rgb(233, 130, 93);
+    padding-bottom: 3%;
+}
+
+h2 {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.testimonial-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
 }
 
 /*A Note About CSS Link Order
