@@ -49,6 +49,8 @@ h2 {
     margin: 20px;
 }
 
+/* Z INDEX AND STACKING ORDER */
+
 /*A Note About CSS Link Order
 
 A quick note about the next lecture. If you find that your custom styles are not working, make sure that you change the order of link tags in the header.
