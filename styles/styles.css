@@ -14,7 +14,8 @@ body {
 /* para cambiar la velocidad a la que se pasan los slides se hace con data-interval="". se pueden encontrar más opciones como esta en la documentación en la 
 parte de USAGE  OPTIONS  */
 /* OJO!! para que funcionen los botones tienen que tener el href del Id del div que lo engloba todo. PROBAR SIEMPRE TODO CON CAJAS DE COLORES ANTES DE METER NADA*/
-/* En la parate de CAROUSEL INNER es donde está el contenido del carousel y eso está dentro del div padre*/
+/* En la parate de CAROUSEL INNER es donde está el contenido del carousel y eso está dentro del div padre.
+Dentro de los elementos del carousel, el que va a salir primero cuando entras en la seccion tiene que estar marcado como ACTIVE*/
 
 #testimonials{
     padding: 7% 15%;
@@ -32,6 +33,10 @@ parte de USAGE  OPTIONS  */
 h2 {
     font-size: 3rem;
     line-height: 1.5;
+}
+
+.carousel-item {
+    height: 400px;
 }
 
 .press-logo {
