@@ -20,6 +20,8 @@ Dentro de los elementos del carousel, el que va a salir primero cuando entras en
 para ver las webs. Usar la pagina de mobile friendly test de google para probar que todo esta ok. Si no esta optimizada para mobil correctamente google te
 penaliza en las busquedas*/
 
+/*CODE REFACTORING*/
+
 #testimonials{
     padding: 7% 15%;
     text-align: center;
