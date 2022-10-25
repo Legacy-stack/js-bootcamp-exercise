@@ -17,7 +17,8 @@ parte de USAGE  OPTIONS  */
 /* En la parate de CAROUSEL INNER es donde está el contenido del carousel y eso está dentro del div padre.
 Dentro de los elementos del carousel, el que va a salir primero cuando entras en la seccion tiene que estar marcado como ACTIVE*/
 /*Recuerda el zindex, para hacer un responsive más avanzado, ademas de usar el grid de bootstrap hay que usar Mediaqueries, recuerda que casi todo el mundo usa el movil
-para ver las webs */
+para ver las webs. Usar la pagina de mobile friendly test de google para probar que todo esta ok. Si no esta optimizada para mobil correctamente google te
+penaliza en las busquedas*/
 
 #testimonials{
     padding: 7% 15%;
