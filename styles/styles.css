@@ -22,8 +22,9 @@ penaliza en las busquedas*/
 
 /*CODE REFACTORING*/
 /* Refactoring es organizar el codigo para que sea más legible.
-READABILITY
-MODULARITY
+READABILITY (hierarchy al the time: Los id son más especificos y cuando algo es más especifico se aplica antes que todo lo demas. nesting, the idea is that less code is better. 
+you can either combine selectors or 
+MODULARITY: how easy is it to reuse
 EFICIENCY
 LENGHT*/
 
