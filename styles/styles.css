@@ -37,37 +37,14 @@ LENGHT*/
 /* UX DESIGN User Experience design
 - Se puede usar CANVA para hacer un diseño borrador para ver si funciona como está colocado. Tiene una opcion de publicar para ver como queda con una minima automatización*/
 
-
-#testimonials{
-    padding: 7% 15%;
+/*NEW STYLES JS*/
+body {
     text-align: center;
-    background-color: rgb(233, 130, 93);
-    color: white;
 }
 
-#press {
-    text-align: center;
-    background-color: rgb(233, 130, 93);
-    padding-bottom: 3%;
-}
+.container-fluid{
+    background-color: blue;
 
-h2 {
-    font-size: 3rem;
-    line-height: 1.5;
-}
-
-.carousel-item {
-    height: 400px;
-}
-
-.press-logo {
-    width: 15%;
-    margin: 20px 20px 50px;
-}
-.testimonial-img {
-    width: 10%;
-    border-radius: 100%;
-    margin: 20px;
 }
 
 /* Z INDEX AND STACKING ORDER */
