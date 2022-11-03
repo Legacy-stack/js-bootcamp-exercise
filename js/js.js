@@ -36,3 +36,31 @@ var dogAge = prompt("What is your human age?");
 var humanAge = ((dogAge - 2)*4)+21;
 
 alert("Your dog is " + humanAge + " years old in human years.")
+
+// NUMBERS
+//INCREMENT EXPRESSION
+
+var x = 5;
+
+x = x + 1;
+
+//gives the same result if you write 
+
+x++; 
+
+//DECREMENT EXPRESSION
+
+var x = 5;
+
+x = x - 1;
+
+//same result if
+
+x--;
+
+//TO INCREMENT OR DECREMENT THE VALUE TO MORE THAN ONE
+
+var x = 5;
+
+x+= 2;
+x-= 3;
