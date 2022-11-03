@@ -1,13 +1,11 @@
 
-
+// HAY UNA LISTA CON TODAS LAS VARIABLES QUE PUEDES USAR, SI HAY ALGO QUE NO SABES COMO CONSEGUIR BUSCAR AHI
 
 //1 create a var that stores the name that the user enters via prompt.
 
 var names = prompt("what is your name");
 
 //2 Capitalise the first letter of their name
-
-
 
 // A: Isolate the first char
 
@@ -30,3 +28,11 @@ var capitalisedName = upperCaseFirstChar + restOfName;
 alert("Hello, " + capitalisedName);
 
 //Hello, Angela. 
+
+// CALCULATE DOG YEARS FROM HUMAN YEARS AND SEND AN ALERT TO THE USER WITH THE ANSWER
+
+var dogAge = prompt("What is your human age?");
+
+var humanAge = ((dogAge - 2)*4)+21;
+
+alert("Your dog is " + humanAge + " years old in human years.")
