@@ -64,3 +64,15 @@ var x = 5;
 
 x+= 2;
 x-= 3;
+
+//TO ADD OR DECREMENT THE VALUE BY ANOTHER VARIABLE
+
+var x = 5;
+var y = 3;
+
+x+= y;
+
+//FUNCTIONS
+
+// If you have more that one alert that you want to have displayed and executed, you can write console.log instead. BUT the important
+//diference between ALERT and CONSOLE.LOG is that the ALERT is something that the user can see. 
