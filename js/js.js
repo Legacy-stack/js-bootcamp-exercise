@@ -120,3 +120,18 @@ function getMilk (money) {
 money(10);
 
 //LIFE IN WEEKS EXERCISE
+function lifeInWeeks (age) {
+    var yearsRemaining = 90 - age;
+    var days = yearsRemaining *365;
+    var weeks = yearsRemaining *52;
+    var months = yearsRemaining * 12;
+
+    console.log("you have" + days + "weeks" + weeks + "months" + months + " left.");
+}
+
+lifeInWeeks(38);
+//when you log this in the console you get that (in this case) you have18980weeks2704months624 left.
+
+// Modulo % gives the remainder. Example: var e = 9 % 6 // 3 its an extraction
+
+//RETURN
