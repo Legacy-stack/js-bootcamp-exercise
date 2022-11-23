@@ -77,4 +77,5 @@ x+= y;
 // If you have more that one alert that you want to have displayed and executed, you can write console.log instead. BUT the important
 //diference between ALERT and CONSOLE.LOG is that the ALERT is something that the user can see. 
 
-//comit
+//Function main
+
