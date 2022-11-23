@@ -78,4 +78,23 @@ x+= y;
 //diference between ALERT and CONSOLE.LOG is that the ALERT is something that the user can see. 
 
 //Function main
-
+function getMilk() {   
+    console.log("leaveHouse");
+    console.log("moveRight");
+    console.log("moveRight");
+    console.log("moveUp");
+    console.log("moveUp");
+    console.log("moveUp");
+    console.log("moveUp");
+    console.log("moveRight");
+    console.log("moveRight");
+    console.log("moveLeft");
+    console.log("moveLeft");
+    console.log("moveDown");
+    console.log("moveDown");
+    console.log("moveDown");
+    console.log("moveDown");
+    console.log("moveLeft");
+    console.log("moveLeft");
+    console.log("enterHouse");
+    }
