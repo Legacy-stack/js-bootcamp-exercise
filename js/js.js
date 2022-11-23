@@ -78,7 +78,7 @@ x+= y;
 //diference between ALERT and CONSOLE.LOG is that the ALERT is something that the user can see. 
 
 //Function main
-function getMilk() {   
+function getMilk (bottles) {   
     console.log("leaveHouse");
     console.log("moveRight");
     console.log("moveRight");
@@ -98,3 +98,25 @@ function getMilk() {
     console.log("moveLeft");
     console.log("enterHouse");
     }
+
+    //EXAMPLE
+    //Creating the Function
+//function gestMilk (bottles) {
+    var cost = bottles * 1.5;
+    //do something with cost
+}
+
+    //Calling the function
+    // getMilk (2); The input 2 gets bounded to the input of the function
+
+// For example, if you want to know how many bottles the robot can buy with a certain amount of money, for example, 10 and the cos
+//of the bottle is 1.5 you´ll do:
+
+function getMilk (money) {
+    var numberOfBottles = money/ 1.5;
+    console.log("buy" + numberOfBottles + "bottles of milk")
+}
+
+money(10);
+
+//LIFE IN WEEKS EXERCISE
