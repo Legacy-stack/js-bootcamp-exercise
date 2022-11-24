@@ -139,3 +139,8 @@ lifeInWeeks(38);
 
 // In adition to take inputs, this function can give outputs by writing return (input) loquesea;
 
+//BMI CALCULATOR
+
+function bmiCalculator (weight, height) {
+    var bmi           //this function has to calculate the value of bmi
+}
