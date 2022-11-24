@@ -130,8 +130,12 @@ function lifeInWeeks (age) {
 }
 
 lifeInWeeks(38);
+
 //when you log this in the console you get that (in this case) you have18980weeks2704months624 left.
 
 // Modulo % gives the remainder. Example: var e = 9 % 6 // 3 its an extraction
 
-//RETURN
+// OUTPUTS AND RETURN VALUES
+
+// In adition to take inputs, this function can give outputs by writing return (input) loquesea;
+
