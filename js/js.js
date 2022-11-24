@@ -142,5 +142,6 @@ lifeInWeeks(38);
 //BMI CALCULATOR
 
 function bmiCalculator (weight, height) {
-    var bmi           //this function has to calculate the value of bmi
+    var bmi =  weight / (height * height);  //Or math.pow(heigth, 2); to make the exponent  //this function has to calculate the value of bmi
+    return math.round(bmi); /// To get a runded result math.round
 }
