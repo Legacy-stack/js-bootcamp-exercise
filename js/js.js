@@ -148,3 +148,5 @@ function bmiCalculator (weight, height) {
 
 //RANDOM NUMBER GENERATION
 
+var n = math.random();
+console.log();
