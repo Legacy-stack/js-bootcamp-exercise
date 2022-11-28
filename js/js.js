@@ -158,4 +158,17 @@ n = n * 6;
 n = math-floor() + 1;
 console.log();
 
-//Using IF ELSE conditionals and logic
+//Using IF ELSE conditionals and logic. Lovescore calculator
+
+prompt ("What is your name?");
+prompt ("What is their name?");
+
+var loveScore = math.random() * 100;
+loveScore = math.floor(loveScore) + 1;
+
+if (loveScore > 70) {
+    alert("Your love score is " + loveScore + "%" + "You love each other like Kanye loves Kanye.")
+}
+else {
+    alert("Your love score is " + loveScore + "%.")
+}
