@@ -150,3 +150,12 @@ function bmiCalculator (weight, height) {
 
 var n = math.random();
 console.log();
+
+//Dice exercise
+
+var n = math.random();
+n = n * 6;
+n = math-floor() + 1;
+console.log();
+
+//Using IF ELSE conditionals and logic
