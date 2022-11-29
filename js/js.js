@@ -172,3 +172,4 @@ if (loveScore > 70) {
 else {
     alert("Your love score is " + loveScore + "%.")
 }
+//comit
