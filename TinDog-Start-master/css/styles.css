@@ -1,1 +1,8 @@
 /*JS EN EL DOM*/
+body {
+    font-family: sans-serif;
+}
+
+p {
+    color: blue;
+}
