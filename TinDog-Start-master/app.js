@@ -5,9 +5,9 @@ for (let i = 0; i <lista.length; i += 1 ){
 }*/
 
 const input = document.querySelector('input');
-const pixel = document.querySelector('pixel');
+const pixel = document.querySelector('p.pixel');
 const button = document.querySelector('button');
 
 button.addEventListener('click', () => {
-    p.textContent = input.value + ':';
-})
+    pixel.textContent = input.value + ':';
+});
